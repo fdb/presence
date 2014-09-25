@@ -1,0 +1,28 @@
+{
+  "name": "presence",
+  "version": "1.0.0",
+  "description": "Presence records user attendance in HipChat",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fdb/presence"
+  },
+  "keywords": [
+    "hipchat",
+    "monitoring",
+    "node",
+    "big brother"
+  ],
+  "author": "Frederik De Bleser <frederik@debleser.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdb/presence/issues"
+  },
+  "homepage": "https://github.com/fdb/presence",
+  "dependencies": {
+  }
+}
