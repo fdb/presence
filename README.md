@@ -1,6 +1,6 @@
 Presence
 ========
-Presence records user attendance in HipChat.
+Presence records user attendance in [HipChat](https://www.hipchat.com/).
 
 Data is recorded in 5 minute intervals in a `presence.csv` file with a unix timestamp, email and status:
 
